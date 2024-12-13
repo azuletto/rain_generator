@@ -22,8 +22,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository-url
-   cd simulador-raios-chuva
+   git clone https://github.com/rain_generator
+   cd thunderstorm_main
    ```
 
 2. Install the required dependencies:
@@ -33,7 +33,7 @@
 
 3. Run the application:
    ```bash
-   python simulator.py
+   python thunderstorm_simulator.py
    ```
 
 ---
