@@ -22,7 +22,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rain_generator
+   git clone https://github.com/azuletto/rain_generator
    cd thunderstorm_main
    ```
 
