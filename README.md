@@ -1,4 +1,4 @@
-# Rain Simulator with Python
+# GenRainpy a Rain Simulator with Python
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square) ![pygame](https://img.shields.io/badge/pygame-2.1-green?style=flat-square)
 
